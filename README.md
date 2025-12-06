@@ -1,19 +1,13 @@
-# 👨‍💻 CodesbyRohit
-const username = "CodesbyRohit";
-const pronouns = "he/him";
+File Handling Program
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Company: CODTECH IT SOLUTIONS
 
-const interests = [
-  "Web Development",
-  "Java",
-  "Python",
-  "Problem Solving",
-  "Learning C & C++"
-];
+Name: Rohit Srivastava
 
-let currentlyLearning = ["C", "C++", "Advanced Python"];
+Intern ID: CT04DR3118
 
-const openToCollaborateOn = [
-  "Beginner-friendly Projects",
-  "Web Apps",
-  "Open-source Contributions"
-];
+Domain: Cyber Security and Ethical Hacking
+
+Duration: 4 Weeks
+
+Mentor: Neela Santosh
